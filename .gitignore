@@ -1,0 +1,10 @@
+/config/database.php
+*.sql
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.idea/
+
+# Temporary database test
+/test_db.php
